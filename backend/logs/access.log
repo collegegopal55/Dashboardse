@@ -1,0 +1,181 @@
+[2026-03-05T04:46:40.428Z] [dotenv@17.3.1] injecting env (0) from .env [2m-- tip: 🛡️ auth for agents: https://vestauth.com[0m
+[2026-03-05T04:46:40.430Z] [dotenv@17.3.1] injecting env (0) from .env [2m-- tip: 🤖 agentic secret storage: https://dotenvx.com/as2[0m
+[2026-03-05T04:46:40.432Z] [dotenv@17.3.1] injecting env (0) from .env [2m-- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`[0m
+[2026-03-05T04:46:40.434Z] 📁 Frontend path: C:\Users\Use\Desktop\Dashboardss\frontend\dist
+[2026-03-05T04:46:40.444Z] 🚀 Server running on port 5000
+[2026-03-05T04:46:40.444Z] 📝 Environment: development
+[2026-03-05T04:46:40.445Z] 🔗 Health check: http://localhost:5000/health
+[2026-03-05T04:46:40.446Z] 📁 Uploads directory: C:\Users\Use\Desktop\Dashboardss\backend\uploads
+[2026-03-05T04:46:40.446Z] ☁️ Cloudinary: Not configured
+[2026-03-05T04:46:40.450Z] ⚠️ MongoDB disconnected
+[2026-03-05T04:46:45.476Z] ⚠️ MongoDB disconnected
+[2026-03-05T04:46:50.527Z] ⚠️ MongoDB disconnected
+[2026-03-05T04:46:55.550Z] ⚠️ MongoDB disconnected
+[2026-03-05T04:47:00.576Z] ⚠️ MongoDB disconnected
+[2026-03-05T04:48:27.738Z] 👋 SIGINT received, shutting down gracefully
+[2026-03-05T04:48:33.997Z] ✅ Cloudinary configured successfully
+[2026-03-05T04:48:34.321Z] [dotenv@17.3.1] injecting env (0) from .env [2m-- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com[0m
+[2026-03-05T04:48:34.323Z] [dotenv@17.3.1] injecting env (0) from .env [2m-- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }[0m
+[2026-03-05T04:48:34.325Z] [dotenv@17.3.1] injecting env (0) from .env [2m-- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit[0m
+[2026-03-05T04:48:34.327Z] 📁 Frontend path: C:\Users\Use\Desktop\Dashboardss\frontend\dist
+[2026-03-05T04:48:34.336Z] 🚀 Server running on port 5000
+[2026-03-05T04:48:34.337Z] 📝 Environment: development
+[2026-03-05T04:48:34.337Z] 🔗 Health check: http://localhost:5000/health
+[2026-03-05T04:48:34.338Z] 📁 Uploads directory: C:\Users\Use\Desktop\Dashboardss\backend\uploads
+[2026-03-05T04:48:34.338Z] ☁️ Cloudinary: Configured
+[2026-03-05T04:48:35.002Z] ✅ MongoDB Connected Successfully
+[2026-03-05T05:17:32.825Z] 🔍 Searching for user with email: roy639300@gmail.com
+[2026-03-05T05:17:32.873Z] 👤 User found: Yes
+[2026-03-05T05:17:32.874Z] 🔢 Generated OTP for user: roy639300@gmail.com
+[2026-03-05T05:17:33.020Z] 💾 OTP saved for user: roy639300@gmail.com
+[2026-03-05T05:17:36.790Z] 📧 Email preview URL: false
+[2026-03-05T05:17:36.791Z] ✅ OTP email sent successfully to: roy639300@gmail.com
+[2026-03-05T05:18:30.538Z] === 🔐 RESET PASSWORD REQUEST ===
+[2026-03-05T05:18:30.542Z] ✅ Token verified for user ID: 69a7a89842a13b4bf3e0a2fe
+[2026-03-05T05:18:30.776Z] ✅ Password reset successful for user: roy639300@gmail.com
+[2026-03-05T05:18:34.404Z] 📧 Success email preview URL: false
+[2026-03-05T05:18:34.405Z] ✅ Password reset success email sent to: roy639300@gmail.com
+[2026-03-05T05:19:19.031Z] 🔐 Login request received: {
+  "password": "Gopal@123",
+  "email": "roy639300@gmail.com"
+}
+[2026-03-05T05:19:19.031Z] 🔍 Login query: {"email":"roy639300@gmail.com"}
+[2026-03-05T05:20:08.134Z] ✅ Old avatar deleted from Cloudinary
+[2026-03-05T05:48:19.925Z] 🔐 Login request received: {
+  "password": "Gopal@12",
+  "email": "roy639300@gmail.com"
+}
+[2026-03-05T05:48:19.926Z] 🔍 Login query: {"email":"roy639300@gmail.com"}
+[2026-03-05T05:48:30.249Z] 🔐 Login request received: {
+  "password": "Gopal@123",
+  "email": "roy639300@gmail.com"
+}
+[2026-03-05T05:48:30.249Z] 🔍 Login query: {"email":"roy639300@gmail.com"}
+[2026-03-05T06:56:48.032Z] 🔐 Login request received: {
+  "password": "Gopal@123",
+  "email": "roy639300@gmail.com"
+}
+[2026-03-05T06:56:48.033Z] 🔍 Login query: {"email":"roy639300@gmail.com"}
+[2026-03-05T10:10:35.511Z] ⚠️ MongoDB disconnected
+[2026-03-05T10:10:35.834Z] ✅ MongoDB reconnected
+[2026-03-06T04:34:08.951Z] ✅ Cloudinary configured successfully
+[2026-03-06T04:34:09.634Z] [dotenv@17.3.1] injecting env (0) from .env [2m-- tip: ⚙️  enable debug logging with { debug: true }[0m
+[2026-03-06T04:34:09.636Z] [dotenv@17.3.1] injecting env (0) from .env [2m-- tip: ⚙️  enable debug logging with { debug: true }[0m
+[2026-03-06T04:34:09.638Z] [dotenv@17.3.1] injecting env (0) from .env [2m-- tip: ⚙️  enable debug logging with { debug: true }[0m
+[2026-03-06T04:34:09.641Z] 📁 Frontend path: C:\Users\Use\Desktop\Dashboardss\frontend\dist
+[2026-03-06T04:34:09.652Z] 🚀 Server running on port 5000
+[2026-03-06T04:34:09.652Z] 📝 Environment: development
+[2026-03-06T04:34:09.653Z] 🔗 Health check: http://localhost:5000/health
+[2026-03-06T04:34:09.653Z] 📁 Uploads directory: C:\Users\Use\Desktop\Dashboardss\backend\uploads
+[2026-03-06T04:34:09.654Z] ☁️ Cloudinary: Configured
+[2026-03-06T04:34:10.230Z] ✅ MongoDB Connected Successfully
+[2026-03-06T05:24:53.666Z] ⚠️ MongoDB disconnected
+[2026-03-06T05:24:56.828Z] ✅ MongoDB reconnected
+[2026-03-06T07:08:51.340Z] ✅ Cloudinary configured successfully
+[2026-03-06T07:08:51.870Z] [dotenv@17.3.1] injecting env (0) from .env [2m-- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild[0m
+[2026-03-06T07:08:51.871Z] [dotenv@17.3.1] injecting env (0) from .env [2m-- tip: ⚙️  suppress all logs with { quiet: true }[0m
+[2026-03-06T07:08:51.873Z] [dotenv@17.3.1] injecting env (0) from .env [2m-- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }[0m
+[2026-03-06T07:08:51.875Z] 📁 Frontend path: C:\Users\Use\Desktop\Dashboardss\frontend\dist
+[2026-03-06T07:08:51.882Z] 🚀 Server running on port 5000
+[2026-03-06T07:08:51.882Z] 📝 Environment: development
+[2026-03-06T07:08:51.883Z] 🔗 Health check: http://localhost:5000/health
+[2026-03-06T07:08:51.883Z] 📁 Uploads directory: C:\Users\Use\Desktop\Dashboardss\backend\uploads
+[2026-03-06T07:08:51.883Z] ☁️ Cloudinary: Configured
+[2026-03-06T07:08:52.552Z] ✅ MongoDB Connected Successfully
+[2026-03-06T07:19:05.312Z] 🔐 Login request received: {
+  "password": "Gopal@12",
+  "email": "roy639300@gmail.com"
+}
+[2026-03-06T07:19:05.313Z] 🔍 Login query: {"email":"roy639300@gmail.com"}
+[2026-03-06T07:19:50.132Z] 🔐 Login request received: {
+  "password": "Gopal@12",
+  "email": "roy639300@gmail.com"
+}
+[2026-03-06T07:19:50.132Z] 🔍 Login query: {"email":"roy639300@gmail.com"}
+[2026-03-06T07:20:00.928Z] 🔐 Login request received: {
+  "password": "Gopal@123",
+  "email": "roy639300@gmail.com"
+}
+[2026-03-06T07:20:00.929Z] 🔍 Login query: {"email":"roy639300@gmail.com"}
+[2026-03-06T09:53:06.194Z] ✅ Cloudinary configured successfully
+[2026-03-06T09:53:06.510Z] [dotenv@17.3.1] injecting env (0) from .env [2m-- tip: 🛡️ auth for agents: https://vestauth.com[0m
+[2026-03-06T09:53:06.512Z] [dotenv@17.3.1] injecting env (0) from .env [2m-- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }[0m
+[2026-03-06T09:53:06.513Z] [dotenv@17.3.1] injecting env (0) from .env [2m-- tip: ⚙️  suppress all logs with { quiet: true }[0m
+[2026-03-06T09:53:06.516Z] 📁 Frontend path: C:\Users\Use\Desktop\Dashboardss\frontend\dist
+[2026-03-06T09:53:06.523Z] 🚀 Server running on port 5000
+[2026-03-06T09:53:06.524Z] 📝 Environment: development
+[2026-03-06T09:53:06.524Z] 🔗 Health check: http://localhost:5000/health
+[2026-03-06T09:53:06.524Z] 📁 Uploads directory: C:\Users\Use\Desktop\Dashboardss\backend\uploads
+[2026-03-06T09:53:06.525Z] ☁️ Cloudinary: Configured
+[2026-03-06T09:53:07.097Z] ✅ MongoDB Connected Successfully
+[2026-03-06T09:54:03.917Z] 🔐 Login request received: {
+  "password": "Gopal@123",
+  "email": "roy639300@gmail.com"
+}
+[2026-03-06T09:54:03.918Z] 🔍 Login query: {"email":"roy639300@gmail.com"}
+[2026-03-06T10:48:09.826Z] ✅ Cloudinary configured successfully
+[2026-03-06T10:48:10.176Z] [dotenv@17.3.1] injecting env (0) from .env [2m-- tip: ⚙️  enable debug logging with { debug: true }[0m
+[2026-03-06T10:48:10.177Z] [dotenv@17.3.1] injecting env (0) from .env [2m-- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`[0m
+[2026-03-06T10:48:10.178Z] [dotenv@17.3.1] injecting env (0) from .env [2m-- tip: ⚙️  override existing env vars with { override: true }[0m
+[2026-03-06T10:48:10.180Z] 📁 Frontend path: C:\Users\Use\Desktop\Dashboardss\frontend\dist
+[2026-03-06T10:48:10.189Z] 🚀 Server running on port 5000
+[2026-03-06T10:48:10.189Z] 📝 Environment: development
+[2026-03-06T10:48:10.189Z] 🔗 Health check: http://localhost:5000/health
+[2026-03-06T10:48:10.190Z] 📁 Uploads directory: C:\Users\Use\Desktop\Dashboardss\backend\uploads
+[2026-03-06T10:48:10.190Z] ☁️ Cloudinary: Configured
+[2026-03-06T10:48:10.796Z] ✅ MongoDB Connected Successfully
+[2026-03-06T11:25:48.801Z] ✅ MongoDB reconnected
+[2026-03-06T11:25:48.802Z] ✅ MongoDB reconnected
+[2026-03-06T11:25:50.404Z] ⚠️ MongoDB disconnected
+[2026-03-06T11:25:50.496Z] ✅ MongoDB reconnected
+[2026-03-07T04:41:43.373Z] ✅ Cloudinary configured successfully
+[2026-03-07T04:41:44.260Z] [dotenv@17.3.1] injecting env (0) from .env [2m-- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }[0m
+[2026-03-07T04:41:44.262Z] [dotenv@17.3.1] injecting env (0) from .env [2m-- tip: 🛡️ auth for agents: https://vestauth.com[0m
+[2026-03-07T04:41:44.264Z] [dotenv@17.3.1] injecting env (0) from .env [2m-- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`[0m
+[2026-03-07T04:41:44.266Z] 📁 Frontend path: C:\Users\Use\Desktop\Dashboardss\frontend\dist
+[2026-03-07T04:41:44.275Z] 🚀 Server running on port 5000
+[2026-03-07T04:41:44.275Z] 📝 Environment: development
+[2026-03-07T04:41:44.276Z] 🔗 Health check: http://localhost:5000/health
+[2026-03-07T04:41:44.276Z] 📁 Uploads directory: C:\Users\Use\Desktop\Dashboardss\backend\uploads
+[2026-03-07T04:41:44.277Z] ☁️ Cloudinary: Configured
+[2026-03-07T04:41:44.819Z] ✅ MongoDB Connected Successfully
+[2026-03-07T05:48:54.942Z] ✅ Avatar deleted from Cloudinary
+[2026-03-07T08:17:04.267Z] ⚠️ MongoDB disconnected
+[2026-03-07T08:17:14.554Z] ✅ MongoDB reconnected
+[2026-03-07T10:40:33.835Z] ✅ MongoDB reconnected
+[2026-03-07T10:40:33.840Z] ✅ MongoDB reconnected
+[2026-03-07T10:40:44.092Z] ⚠️ MongoDB disconnected
+[2026-03-07T10:40:44.178Z] ✅ MongoDB reconnected
+[2026-03-07T10:55:43.942Z] ✅ Cloudinary configured successfully
+[2026-03-07T10:55:44.703Z] [dotenv@17.3.1] injecting env (0) from .env [2m-- tip: ⚙️  enable debug logging with { debug: true }[0m
+[2026-03-07T10:55:44.705Z] [dotenv@17.3.1] injecting env (0) from .env [2m-- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }[0m
+[2026-03-07T10:55:44.708Z] [dotenv@17.3.1] injecting env (0) from .env [2m-- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com[0m
+[2026-03-07T10:55:44.711Z] 📁 Frontend path: C:\Users\Use\Desktop\Dashboardss\frontend\dist
+[2026-03-07T10:55:44.711Z] ✅ Frontend build found at: C:\Users\Use\Desktop\Dashboardss\frontend\dist
+[2026-03-07T10:55:44.722Z] 🚀 Server running on port 5000
+[2026-03-07T10:55:44.723Z] 📝 Environment: development
+[2026-03-07T10:55:44.723Z] 🔗 Health check: http://localhost:5000/health
+[2026-03-07T10:55:44.724Z] 📁 Uploads directory: C:\Users\Use\Desktop\Dashboardss\backend\uploads
+[2026-03-07T10:55:44.724Z] ☁️ Cloudinary: Configured
+[2026-03-07T10:55:45.402Z] ✅ MongoDB Connected Successfully
+[2026-03-09T04:44:51.111Z] ✅ Cloudinary configured successfully
+[2026-03-09T04:44:51.684Z] [dotenv@17.3.1] injecting env (0) from .env [2m-- tip: ⚙️  override existing env vars with { override: true }[0m
+[2026-03-09T04:44:51.686Z] [dotenv@17.3.1] injecting env (0) from .env [2m-- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }[0m
+[2026-03-09T04:44:51.690Z] [dotenv@17.3.1] injecting env (0) from .env [2m-- tip: ⚙️  enable debug logging with { debug: true }[0m
+[2026-03-09T04:44:51.692Z] 📁 Frontend path: C:\Users\Use\Desktop\Dashboardss\frontend\dist
+[2026-03-09T04:44:51.700Z] 🚀 Server running on port 5000
+[2026-03-09T04:44:51.700Z] 📝 Environment: development
+[2026-03-09T04:44:51.700Z] 🔗 Health check: http://localhost:5000/health
+[2026-03-09T04:44:51.701Z] 📁 Uploads directory: C:\Users\Use\Desktop\Dashboardss\backend\uploads
+[2026-03-09T04:44:51.701Z] ☁️ Cloudinary: Configured
+[2026-03-09T04:44:52.232Z] ✅ MongoDB Connected Successfully
+[2026-03-09T05:03:20.185Z] 🔐 Login request received: {
+  "password": "Gopal@123",
+  "email": "collegegopal55@gmail.com"
+}
+[2026-03-09T05:03:20.186Z] 🔍 Login query: {"email":"collegegopal55@gmail.com"}
+[2026-03-09T05:03:29.752Z] 🔐 Login request received: {
+  "password": "Gopal@123",
+  "email": "roy639300@gmail.com"
+}
+[2026-03-09T05:03:29.753Z] 🔍 Login query: {"email":"roy639300@gmail.com"}

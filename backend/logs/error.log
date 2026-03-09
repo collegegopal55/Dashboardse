@@ -1,0 +1,32 @@
+❌ [2026-03-05T04:46:40.450Z] ❌ MongoDB Connection Attempt 1 failed: querySrv ENOTFOUND _mongodb._tcp.cluster0.fyrrfy9.mongodb.net
+❌ [2026-03-05T04:46:40.451Z] ❌ MongoDB connection error: {
+  "code": "ENOTFOUND",
+  "syscall": "querySrv",
+  "hostname": "_mongodb._tcp.cluster0.fyrrfy9.mongodb.net"
+}
+❌ [2026-03-05T04:46:45.477Z] ❌ MongoDB Connection Attempt 2 failed: querySrv ENOTFOUND _mongodb._tcp.cluster0.fyrrfy9.mongodb.net
+❌ [2026-03-05T04:46:45.477Z] ❌ MongoDB connection error: {
+  "code": "ENOTFOUND",
+  "syscall": "querySrv",
+  "hostname": "_mongodb._tcp.cluster0.fyrrfy9.mongodb.net"
+}
+❌ [2026-03-05T04:46:50.528Z] ❌ MongoDB Connection Attempt 3 failed: querySrv ENOTFOUND _mongodb._tcp.cluster0.fyrrfy9.mongodb.net
+❌ [2026-03-05T04:46:50.529Z] ❌ MongoDB connection error: {
+  "code": "ENOTFOUND",
+  "syscall": "querySrv",
+  "hostname": "_mongodb._tcp.cluster0.fyrrfy9.mongodb.net"
+}
+❌ [2026-03-05T04:46:55.550Z] ❌ MongoDB Connection Attempt 4 failed: querySrv ENOTFOUND _mongodb._tcp.cluster0.fyrrfy9.mongodb.net
+❌ [2026-03-05T04:46:55.551Z] ❌ MongoDB connection error: {
+  "code": "ENOTFOUND",
+  "syscall": "querySrv",
+  "hostname": "_mongodb._tcp.cluster0.fyrrfy9.mongodb.net"
+}
+❌ [2026-03-05T04:47:00.595Z] ❌ MongoDB Connection Attempt 5 failed: querySrv ENOTFOUND _mongodb._tcp.cluster0.fyrrfy9.mongodb.net
+❌ [2026-03-05T04:47:00.599Z] ❌ All MongoDB connection attempts failed
+❌ [2026-03-05T04:47:00.603Z] ❌ MongoDB connection error: {
+  "code": "ENOTFOUND",
+  "syscall": "querySrv",
+  "hostname": "_mongodb._tcp.cluster0.fyrrfy9.mongodb.net"
+}
+❌ [2026-03-06T10:35:25.331Z] ❌ Server error: {}
